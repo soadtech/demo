@@ -4,31 +4,31 @@
             "id": 1,
             "producto": "pizza",
             "cantidad": 0,
-            precio: 6500
+            "precio": 6500
         },
         {
             "id": 2,
             "producto": "salchipapa",
             "cantidad": 0,
-            precio: 8000
+            "precio": 8000
         },
         {
             "id": 3,
             "producto": "perro",
             "cantidad": 0,
-            precio: 3500
+            "precio": 3500
         },
         {
             "id": 4,
             "producto": "carne asada",
             "cantidad": 0,
-            precio: 12000
+            "precio": 12000
         },
         {
             "id": 5,
             "producto": "pollo asado",
             "cantidad": 0,
-            precio: 12000
+            "precio": 12000
         }
     ]
 }
