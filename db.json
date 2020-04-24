@@ -3,27 +3,27 @@
         {
             "id": 1,
             "producto": "pizza",
-            "cantidad": "0"
+            "cantidad": 0
         },
         {
             "id": 2,
             "producto": "salchipapa",
-            "cantidad": "0"
+            "cantidad": 0
         },
         {
             "id": 3,
             "producto": "perro",
-            "cantidad": "0"
+            "cantidad": 0
         },
         {
             "id": 4,
             "producto": "carne asada",
-            "cantidad": "0"
+            "cantidad": 0
         },
         {
             "id": 5,
             "producto": "pollo asado",
-            "cantidad": "0"
+            "cantidad": 0
         }
     ]
 }
