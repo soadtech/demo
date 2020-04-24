@@ -1,31 +1,29 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "productos": [
+        {
+            "id": "1",
+            "producto": "pizza",
+            "cantidad": "0"
+        },
+        {
+            "id": "2",
+            "producto": "salchipapa",
+            "cantidad": "0"
+        },
+        {
+            "id": "3",
+            "producto": "perro",
+            "cantidad": "0"
+        },
+        {
+            "id": "4",
+            "producto": "carne asada",
+            "cantidad": "0"
+        },
+        {
+            "id": "5",
+            "producto": "pollo asado",
+            "cantidad": "0"
+        }
+    ]
 }
